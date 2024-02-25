@@ -1,5 +1,5 @@
 !!
-news app!
+news app
 created using next app!!!
 !
 !!!!
